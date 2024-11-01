@@ -1,0 +1,517 @@
+1,5,7,Vigorous Strike
+2,10,14,Elegant Strike
+3,15,19,Burning Strike
+4,10,15,Swing of Infinity
+5,14,17,Earthquake Stomp
+6,12,16,The Seventh Shadow
+7,5,6,Butterfly Strike
+8,12,13,Covetous Butterflies
+9,16,18,Triple Strike
+11,5,7,Charge of the Tiger
+12,12,16,Strike of the Wolves
+13,13,17,Rattle of Snakes
+14,12,16,Miraculous Strike
+15,11,16,Swing of Destruction
+16,17,21,Shocking Drop Attack
+17,4,8,Tune of Daggers
+18,12,17,Tune of Arrows
+19,17,22,Tune of Explosion
+21,5,7,Gathering of Spirit
+22,8,12,Shot of the Dead
+23,12,16,Swift Thunder Arrow
+24,10,14,Frozen Rainbow Arrow
+25,17,21,Glowing Thunder Arrow
+26,19,24,Dark Sphere Arrow
+27,9,12,Tune of Death
+28,10,15,Tune of Squares
+29,12,17,Tune of Mass Explosion
+31,5,7,Piercing Strike
+32,7,11,Deadly Wind
+33,10,14,Adament Chest Strike
+34,16,19,Frozen Mountain Strike
+35,19,23,Great Buddha's Palm
+36,16,20,Blue Crystal Fist
+37,11,14,Energy Scatter
+38,9,12,Dance of Earth's Rage
+39,11,13,Dance of Cherry Blossom
+41,36,40,Tender Stab
+42,45,50,Spin Slash
+43,56,60,Rapid Slash
+44,64,68,Spirit of Heaven
+45,40,45,Aerial Flame
+51,36,41,Dragon Swing
+52,46,51,Tornado Strike
+53,52,56,Great Elephant Strike
+54,62,66,Ascending Soul Strike
+55,71,75,Sparkling Sky Attack
+61,34,38,Shadow Emporer Arrow
+62,46,51,Ascending Emporer Arrow
+63,54,58,Devil's Skull Arrow
+64,60,65,Arrow of Quickness
+65,46,51,Arrow of Sacred Earth
+71,33,38,Giant Emerald Fist
+72,44,49,Eagle Crushing Blow
+73,46,51,Buddha's Burning Spirit
+74,63,67,Cyclone Strike
+75,72,76,Engravement of Buddha
+101,5,7,Spinning Blaze Attack
+102,7,12,Lightning Trident Attack
+103,9,14,Blinding Sunlight Attack
+104,10,14,Cruel Petal Attack
+105,12,16,Red Moon Strike
+106,19,23,Stomp of the Beast
+111,31,36,Phantom of Tiger
+112,42,47,Spreading Blade
+113,53,57,Slashing Wild Tiger
+114,67,72,Celestial Waves
+115,66,71,Magnetic Shock
+116,37,42,Tune of Weapons
+117,48,53,Tune of Crescent
+118,46,50,Tune of Tornado
+119,50,54,Tune of Energy Balls
+120,73,77,Rain of Light Rays
+121,5,7,Divine Wind Swing
+122,8,12,Thunder Strike
+123,14,17,Guillotine Swing
+124,11,15,Twirling Steam Swing
+125,13,17,Jumping Bear Swing
+126,17,21,Rolling Bear Swing
+131,27,32,Dust Typhoon Swing
+132,43,47,Ancient Blizzard Swing
+133,55,59,Mystic Cross Swing
+134,65,69,Spin of Harmony
+135,75,79,Strike of the Forest
+136,33,37,Earth's Wall
+137,42,46,Cross Thrust
+138,34,38,Cherry Blossom Explosion
+139,41,45,Ascension of Dragon
+140,68,73,Energy Refraction
+141,90,95,Strike of the Wolf's Breath
+142,75,79,Heavenly Soul of Wolf
+143,97,101,Rectangle Enigma
+151,90,94,The Attacking Hawk
+152,85,90,The Falling Hawk
+153,95,99,The Rising Hawk
+154,71,74,Wind of Ghost
+155,88,92,Criscross
+156,97,101,Roaring Lion
+161,70,75,Static Fury
+162,86,90,Holy Static Pillar
+163,112,116,Resurrection of Pheonix
+171,84,88,Fierce King's Claw
+172,92,96,Engravement of Strength
+173,110,114,Sunlight Power Wave
+181,84,88,Engravement of Sky
+182,76,80,Ascending Dragon of Lightning
+183,105,109,Swords of Earth Spirit
+184,101,105,Tune of Overseer of the Sky
+185,85,89,Tune of Piercing Eyes
+186,114,118,Tune of Ruthless Blade
+191,108,113,Volcano Strike
+192,99,103,Rock of Destruction
+193,93,97,Flaming Whirlwind
+194,100,104,Heaven's Burning Stab
+195,81,86,Heaven's Rain
+196,0,0,Energy Shield
+197,100,105,Elaborate Meteor Strike
+198,90,94,Divine Thunder Drop
+199,0,0,Energy Shield
+200,110,114,Holy Energy of Flowers
+201,93,97,Deadly Flower Storm
+202,0,0,Energy Shield
+203,95,99,Celestial Dragon Drop
+204,116,120,Birth of the Dragon
+205,0,0,Energy Shield
+206,94,98,The Burning Cloud
+207,86,90,Flying Firestorm
+208,0,0,Energy Shield
+209,120,124,Poison Earthquake
+210,104,108,Dark Force of Earth
+211,0,0,Energy Shield
+212,98,102,Evil Slasher
+213,79,83,Shadow Evil Slasher
+214,0,0,Energy Shield
+215,127,132,Phoenix Fire
+216,110,114,Phoenix Strike
+217,0,0,Energy Shield
+,100,104,Heaven's Burning Stab
+,81,86,Heaven's Rain
+,0,0,Energy Shield
+,70,75,Static Fury
+,86,90,Holy Static Pillar
+,112,116,Resurrection of Pheonix
+,36,40,Tender Stab
+,45,50,Spin Slash
+,56,60,Rapid Slash
+,64,68,Spirit of Heaven
+,40,45,Aerial Flame
+,0,0,Energy Shield
+,12,16,The Seventh Shadow
+,40,45,Aerial Flame
+,97,101,Rectangle Enigma
+,81,86,Heaven's Rain
+,17,21,Glowing Thunder Arrow
+,46,51,Arrow of Sacred Earth
+,86,90,Holy Static Pillar
+,93,97,Deadly Flower Storm
+,0,0,Energy Shield
+,12,16,The Seventh Shadow
+,40,45,Aerial Flame
+,97,101,Rectangle Enigma
+,81,86,Heaven's Rain
+,31,36,Phantom of Tiger
+,66,71,Magnetic Shock
+,76,80,Ascending Dragon of Lightning
+,86,90,Flying Firestorm
+,0,0,Energy Shield
+,17,21,Shocking Drop Attack
+,62,66,Ascending Soul Strike
+,95,99,The Rising Hawk
+,90,94,Divine Thunder Drop
+,17,21,Rolling Bear Swing
+,65,69,Spin of Harmony
+,99,103,Rock of Destruction
+,104,108,Dark Force of Earth
+,0,0,Energy Shield
+,17,21,Shocking Drop Attack
+,62,66,Ascending Soul Strike
+,95,99,The Rising Hawk
+,90,94,Divine Thunder Drop
+,16,20,Blue Crystal Fist
+,72,76,Engravement of Buddha
+,92,96,Engravement of Strength
+,116,120,Birth of the Dragon
+,0,0,Sword Ki
+,105,108,Sword Power
+,0,0,Sword Shield
+,0,0,Self-Defense Sword
+,0,0,Golden Sword Shield
+,0,0,Golden Armor
+,0,0,Emperial Sword
+,0,0,Poisonous Emperial Sword
+,0,0,Toxic Emperial Sword
+,0,0,Heavenly Blossom Sword
+,0,0,Sword-Body Union
+,0,0,Rod Ki
+,105,108,Rod Power
+,0,0,Rod Shield
+,0,0,Self-Defense Rod
+,0,0,Golden Rod Shield
+,0,0,Golden Armor
+,0,0,Emperial Rod
+,0,0,Poisnous Emperial Rod
+,0,0,Toxic Emperial Rod
+,0,0,Heavenly Blossom Rod
+,0,0,Rod-Body Union
+,0,0,Bow Ki
+,105,108,Bow Power
+,0,0,Bow Shield
+,0,0,Self-Defense Bow
+,0,0,Golden Bow Shield
+,0,0,Golden Armor
+,0,0,Emperial Bow
+,0,0,Poisonous Emperial Bow
+,0,0,Toxic Emperial Bow
+,0,0,Heavenly Blossom Bow
+,0,0,Bow-Armor Union
+,0,0,Gauntlet Ki
+,105,108,Gauntlet Power
+,0,0,Gauntlet Shield
+,0,0,Self-Defense Gauntlet
+,0,0,Golden Shield Gauntlet
+,0,0,Golden Armor
+,0,0,Emperial Gauntlet
+,0,0,Poisonous Emperial Gauntlet
+,0,0,Toxic Emperial Gauntlet
+,0,0,Heavenly Blossom Gauntlet
+,0,0,Gauntlet-Body Union
+,0,0,Dart Ki
+,105,108,Dart Power
+,0,0,Dart Shield
+,0,0,Self-Defense Dart
+,0,0,Golden Shield Dart
+,0,0,Golden Armor
+,0,0,Emperial Dart
+,0,0,Poisonous Emperial Dart
+,0,0,Toxic Emperial Dart
+,0,0,Heavenly Blossom Dart
+,0,0,Dart-Body Union
+,0,0,Axe Ki
+,105,108,Axe Power
+,0,0,Axe Shield
+,0,0,Self-Defense Axe
+,0,0,Golden Shield Axe
+,0,0,Golden Armor
+,0,0,Emperial Axe
+,0,0,Poisonous Emperial Axe
+,0,0,Toxic Emperial Axe
+,0,0,Heavenly Blossom Axe
+,0,0,Axe-Body Union
+,0,0,Transforming Power
+,0,0,Warlord's Great Ki
+,0,0,Pigeon's Blood
+,0,0,Mining
+,0,0,Gathering
+,0,0,Deciphering
+,0,0,Fishing
+,0,0,Heavenly Crane Wall
+,0,0,Tolerating Soul
+,0,0,Levitation
+,0,0,Great Law of Confusion
+,0,0,Mining
+,0,0,Gathering
+,0,0,Deciphering
+,0,0,Fishing
+,0,0,Piercing Blow
+,0,0,Healing of Hermit
+,0,0,God's Instrument
+,0,0,Cessation
+,0,0,Plague Healing
+,0,0,Mining
+,0,0,Gathering
+,0,0,Deciphering
+,0,0,Fishing
+,0,0,Swiftness
+,0,0,Disguise of Darkness
+,0,0,Disguise of Soul
+,0,0,Plague Extermination
+,0,0,Flowback of Blood
+,0,0,Mining
+,0,0,Gathering
+,0,0,Deciphering
+,0,0,Fishing
+,5,6,Barbarian Strike
+,6,7,Rapid Fire
+,7,8,Double Sword Spin
+,8,9,Evil Flame
+,9,10,Frozen Hammer
+,1,2,!!!
+,10,15,Fire Charm
+,10,15,Devil's Lightning
+,1,2,Mad Swing
+,1,2,.
+,10,12,.
+,20,22,.
+,30,32,.
+,0,0,Prayer of Warriors
+,0,0,Touch of Heal
+,0,0,Touch of Detoxify
+,0,0,Touch of Paralysis
+,0,0,Touch of Cleansing
+,5,6,Howl of Tame
+,0,0,Refine
+,0,0,Move of Disguise
+,0,0,Detection Skill
+,28,33,Move of Extortion
+,0,0,Prayer of Offense
+,0,0,Weaken Offense
+,0,0,Prayer of Defense
+,0,0,Weaken Defense
+,0,0,Touch of Protection
+,0,0,Touch of Wide Heal
+,0,0,Touch of Great Cleansing
+,0,0,Curse of Protection
+,0,0,Curse of Torment
+,0,0,Touch of Lasting Heal
+,0,0,Move of Speed
+,0,0,Move of Agility
+,0,0,Move of Great Disguise
+,0,0,Decrease Speed
+,0,0,Decrease Agility
+,0,0,Move of Rendering
+,0,0,Cry of Defense
+,0,0,Cry of Perfection
+,0,0,Doom of Attack
+,0,0,Increase Perfection
+,0,0,Curse of Disturbance
+,0,0,Move of Protection
+,0,0,Move of Skill Defense
+,0,0,Poison Paralysis
+,0,0,Increase and Decrease of Stats 1
+,0,0,Increase and Decrease of Stats 2
+,0,0,Cure of Condition
+,0,0,Health and Chi Recovery
+,0,0,Chasing Skill
+,0,0,Hiding Skill
+,50,50,Health and Chi Absorb
+,0,0,Taunting
+,0,0,Capture
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,0,0,Mine
+,60,80,Bloody Wolf Destruction
+,0,0,Confusion
+,0,0,Poison
+,0,0,Paralysis
+,0,0,Confusion
+,0,0,Poison Cure
+,0,0,Paralysis Cure
+,0,0,Confusion Cure
+,0,0,Refine
+,1,2,Chaos Slash
+,1,2,Blinding Slash
+,1,2,Assassin's Lunar Stab
+,1,2,Assassin's Back Stab
+,1,2,Explosive Spear
+,1,2,Giant Bell's Roar
+,1,2,!!!!
+,1,2,Deadly Breath of Tiger
+,1,2,Deadly Cross Arrow
+,1,2,Broken Earth
+,1,2,Witch's Cursed Charm
+,1,2,Shadow of Swords
+,1,2,The Rising Beast
+,1,2,Feral Claw Slash
+,1,2,Evil Flame!
+,1,2,Burning Stone Swing
+,1,2,Thorns of Earth
+,1,2,!!
+,1,2,Fierce Stone Swing
+,1,2,Witch's Burning Charm
+,1,2,Thorns of Destruction
+,1,2,!!!
+,1,2,Star of Mad Monk
+,1,2,Axe of Hell
+,1,2,Double Stab
+,1,2,Head Slash
+,1,2,Charging Viper
+,1,2,Poison Tornado
+,1,2,!!!
+,1,2,!!!
+,1,2,Toxic Crystal
+,1,2,Killer Strike
+,1,2,Crushing Blow
+,1,2,Ha ha ha !!!
+,1,2,Ha ha !!
+,1,2,Flying Hawk
+,1,2,Poison Tangsu
+,1,2,Arising Blow
+,1,2,Flying Devil Hawk
+,1,2,!!
+,1,2,Murder Fan
+,1,2,Burning Sword Attack
+,1,2,Ice of Dead Spirit
+,1,2,Ice Bolt of Universe
+,1,2,Grrr..
+,1,2,Kyao!!
+,1,2,Kwaoh!!
+,1,2,Wicked Earth Strike
+,1,2,Wicked Earth's Fan
+,1,2,Wicked Earth's Sword
+,1,2,Wicked Earth Swing
+,1,2,Minion Summon
+,1,2,Miraculous Heal
+,200,205,Heavenly Strike
+,1,2,Merry Christmas
+,1,2,Phantom of Asura
+,1,2,Phantom of Asura
+,1,2,Self Destruction
+,1,2,!
+,1,2,!!
+,1,2,Explosive Strike
+,1,2,Blazing Sky
+,1,2,Bloody Explosion
+,1,2,Mad Blood Thirst
+,1,2,Violet Ascend
+,1,2,Drake Fang
+,1,2,Miraculous Heal
+,1,2,Phantom of Rama
+,1,2,Celestial Tornado
+,1,2,Kamakaze
+,1,2,Young Monk Attack
+,1,2,Lunar Riptide
+,1,2,Flame of Pheonix
+,1,2,Trinity
+,1,2,Dark Sword Soul
+,1,2,Furious Riptide
+,1,2,Dark Ashes
+,1,2,Celestial Tornado
+,1,2,Kamakaze
+,1,2,Young Monk Attack
+,1,2,Lunar Riptide
+,1,2,Flame of Pheonix
+,1,2,Trinity
+,1,2,Dark Sword Soul
+,1,2,Furious Riptide
+,1,2,Dark Ashes
+,1,2,Celestial Tornado
+,1,2,Kamakaze
+,1,2,Young Monk Attack
+,1,2,Lunar Riptide
+,1,2,Flame of Pheonix
+,1,2,Trinity
+,1,2,Dark Sword Soul
+,1,2,Furious Riptide
+,1,2,Dark Ashes
+,1,2,Black Thunder Claw
+,1,2,Bloody Wind
+,1,2,Pyro Flae
+,1,2,Grizzly's Claw
+,1,2,!!!!!
+,1,2,Fire Element Summon
+,1,2,Demonic Explosion
+,1,2,Array of Flame
+,1,2,Explosive Blow
+,1,2,!!!!
+,1,2,!!!!
+,1,2,!!!!
+,1,2,!!!!
+,1,2,Burning Sky Demonic Ball
+,1,2,Raging Flame Rain
+,1,2,Burning Dragon Flame
+,1,2,Soul Suction
+,1,2,Violent Rampage
+,1,2,Strike of Poisonous Blight
+,1,2,Snake's Covet
+,1,2,Bloody Flower of Monster
+,1,2,Great Eyes
+,1,2,Swarming Poisonous Blight
+,1,2,Swarming Bloody Snake
+,1,2,Ball of Blight
+,1,2,Swarming Poisonous Blight
+,1,2,Swarming Bloody Snake
+,1,2,Ball of Blight
+,1,2,!!!
+,1,2,Rush of Violet Glow
+,1,2,Ghost Slice
+,1,2,Devil Slash
+,1,2,Gaaaahhhh!!!
+,1,2,Thunderbolts
+,1,2,Ha Ha Ha Ha!
+,1,2,Thousand Year Old Centipede
+,1,2,!!!
+,1,2,!!
+,1,2,!!!!!
+,1,2,!!!!!!
+,1,2,Speed of Light
+,1,2,Windblow
+,1,2,Mad Spear
+,1,2,Nature's Punishment
+,1,2,Thunderbolts
+,1,2,Heaven's Ray
+,1,2,Ugghhh!
+,1,2,Come out!
+,1,2,Bang
+,1,2,??????!!
+,1,2,??????!!
+,1,2,??????!!
+,1,2,??????!!
+,1,2,??????!!
+,1,2,!!!
+,1,2,??????????
+,1,2,??????????
+,1,2,??????????
+,1,2,????????
+,1,2,Sinister Blast
+,1,2,Sinister Blast
+,1,2,Murky Eruption
+,1,2,Sinister Blast
+,1,2,Murky Eruption
+,1,2,Sanctuary
+,0,0,Damage Invincible
+,0,0,Defense Invincible

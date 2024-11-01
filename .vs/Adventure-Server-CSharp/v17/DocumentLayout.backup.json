@@ -1,0 +1,382 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\mobspawnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\mobspawnercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 \u0022 )$  \u0022     ",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xtrap-bypass\\dbg0.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}|,   b e g i n   \u011F\u011F\u011F\u011F8 \u0022 )$  \u0022     "
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:xtrap-bypass\\dbg0.dll||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\clientmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\clientmemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|c:\\users\\dev\\desktop\\hero_old_svfiles\\adventure-server-csharp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\server.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\serverfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\serverfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\ccharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\ccharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\functions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\clientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\clientsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\utils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\cmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\cmob.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\datadebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\datadebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\paketturleri\\npcidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\paketturleri\\npcidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\paketturleri\\c2s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\paketturleri\\c2s.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\datalengthcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\datalengthcalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\clientrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\paketturleri\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\paketturleri\\s2c.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\paketturleri\\packetidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\paketturleri\\packetidlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\adventure-server-csharp\\admincommandmodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C90E266-976F-4EB9-B0D8-D49B103B4F3E}|Adventure-Server-CSharp\\Adventure-Server-CSharp.csproj|solutionrelative:adventure-server-csharp\\admincommandmodes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ServerMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Adventure-Server-CSharp\\ServerMemory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "dbg0.dll - 2 [English (United States)] - RCDATA",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll",
+              "RelativeDocumentMoniker": "xtrap-bypass\\dbg0.dll",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll - 2 [English (United States)] - RCDATA",
+              "RelativeToolTip": "xtrap-bypass\\dbg0.dll - 2 [English (United States)] - RCDATA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-11-01T00:23:34.205Z",
+              "EditorCaption": " - 2 [English (United States)] - RCDATA"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "dbg0.dll",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll",
+              "RelativeDocumentMoniker": "xtrap-bypass\\dbg0.dll",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\xtrap-bypass\\dbg0.dll",
+              "RelativeToolTip": "xtrap-bypass\\dbg0.dll",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001697|",
+              "WhenOpened": "2024-11-01T00:23:31.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ServerFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ServerFunctions.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\ServerFunctions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ServerFunctions.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\ServerFunctions.cs",
+              "ViewState": "AgIAAMgCAAAAAAAAAAAswJsCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.057Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CMob.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\CMob.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\CMob.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\CMob.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\CMob.cs",
+              "ViewState": "AgIAACwBAAAAAAAAAAAAwDsBAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:17.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Server.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\Server.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Server.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\Server.cs",
+              "ViewState": "AgIAACMBAAAAAAAAAAAiwCQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\CCharacter.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\CCharacter.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\CCharacter.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\CCharacter.cs",
+              "ViewState": "AgIAAH0AAAAAAAAAAAAowIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DataLengthCalculator.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\DataLengthCalculator.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\DataLengthCalculator.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\DataLengthCalculator.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\DataLengthCalculator.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwBEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MobSpawnerController.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\MobSpawnerController.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\MobSpawnerController.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\MobSpawnerController.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\MobSpawnerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\DataDebugger.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\DataDebugger.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\DataDebugger.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\DataDebugger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClientMemory.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientMemory.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\ClientMemory.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientMemory.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\ClientMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Utils.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Utils.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\Utils.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Utils.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\Utils.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.075Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientSettings.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientSettings.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\ClientSettings.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientSettings.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\ClientSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.071Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Functions.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Functions.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\Functions.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Functions.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\Functions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ServerMemory.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ServerMemory.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\ServerMemory.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ServerMemory.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\ServerMemory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\Program.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Program.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\Program.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAlwDsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "C2S.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\C2S.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\PaketTurleri\\C2S.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\C2S.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\PaketTurleri\\C2S.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAWwBMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:17.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "NPCIdList.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\NPCIdList.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\PaketTurleri\\NPCIdList.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\NPCIdList.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\PaketTurleri\\NPCIdList.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwB8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Database.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\Database.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\Database.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\Database.cs",
+              "ViewState": "AgIAALECAAAAAAAAAAAlwMMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClientRequest.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientRequest.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\ClientRequest.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\ClientRequest.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\ClientRequest.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAArwKwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:17.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AdminCommandModes.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\AdminCommandModes.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\AdminCommandModes.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\AdminCommandModes.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\AdminCommandModes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.064Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PacketIdList.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\PacketIdList.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\PaketTurleri\\PacketIdList.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\PacketIdList.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\PaketTurleri\\PacketIdList.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAvwEIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:18.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "S2C.cs",
+              "DocumentMoniker": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\S2C.cs",
+              "RelativeDocumentMoniker": "Adventure-Server-CSharp\\PaketTurleri\\S2C.cs",
+              "ToolTip": "C:\\Users\\dev\\Desktop\\hero_old_svfiles\\Adventure-Server-CSharp\\PaketTurleri\\S2C.cs",
+              "RelativeToolTip": "Adventure-Server-CSharp\\PaketTurleri\\S2C.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAjwJQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T19:15:17.557Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

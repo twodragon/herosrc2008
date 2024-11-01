@@ -1,0 +1,159 @@
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\GAMEEKSTRA\Source\Repos\Adventure-Server-CSharp\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\Adventure-Server-CSharp (1)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojAssemblyReference.cache
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\GAMEEKSTRA\Source\Repos\hero_sw\hero sw\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\hero_sw2\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\hero_sw3\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojAssemblyReference.cache
+D:\hero_sw3\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\hero_sw3\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\hero_sw3\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\hero_sw3\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\hero_sw3\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\heroafterjoin\hero_sw3 (2)\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\her\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\her\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\her\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\her\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\her\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\her\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\her\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\her\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojAssemblyReference.cache
+D:\her\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\her\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+D:\her\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\her\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojAssemblyReference.cache
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\ASDASDASFA\herreo\herreo\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\myquest\HEROSTABLE1\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\herro23\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\herro23\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\herro23\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\herro23\herro22\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\herro23\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+D:\herro23\herro22\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csprojAssemblyReference.cache
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.AssemblyReference.cache
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+E:\HEROSW\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.AssemblyReference.cache
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\snosnherobruyukrdakilersahte\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.AssemblyReference.cache
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+C:\Users\emir_\Desktop\HeroOldServer\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.AssemblyReference.cache
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\UnityProjects\hero_old_serverfiles_v123\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe.config
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.exe
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\Adventure-Server-CSharp.pdb
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.dll
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\MySql.Data.dll
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\Google.Protobuf.xml
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\bin\Debug\MySql.Data.xml
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.AssemblyReference.cache
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CoreCompileInputs.cache
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.csproj.CopyComplete
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.exe
+D:\UnityProjects\hero_old_svfiles\Adventure-Server-CSharp\obj\Debug\Adventure-Server-CSharp.pdb
