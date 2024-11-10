@@ -1,2 +1,3 @@
-cd /d "D:\herro23\herro22\Adventure-Server-CSharp" &msbuild "Adventure-Server-CSharp.csproj" /t:sdvViewer /p:configuration="Debug" /p:platform=Any CPU
+msbuild "Adventure-Server-CSharp.csproj"  /p:configuration="Debug"
+pause
 exit %errorlevel% 
