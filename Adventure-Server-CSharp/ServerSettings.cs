@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Adventure_Server_CSharp
+﻿namespace Adventure_Server_CSharp
 {
     public static class ServerSettings
     {
@@ -17,6 +11,6 @@ namespace Adventure_Server_CSharp
 
         public static bool ENABLE_DEBUGS = true;
 
-        public static string LOCAL_IPV4 = "192.168.1.3";
+        public static string LOCAL_IPV4 = "127.0.0.1";
     }
 }
