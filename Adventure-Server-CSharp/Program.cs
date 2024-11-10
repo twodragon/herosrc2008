@@ -1,15 +1,7 @@
 ﻿using System;
-using System.Collections;
 using System.Collections.Generic;
 using System.IO;
-using System.Net;
-using System.Net.Security;
 using System.Net.Sockets;
-using System.Runtime.InteropServices;
-using System.Runtime.Serialization;
-using System.Runtime.Serialization.Formatters.Binary;
-using System.Text;
-using System.Threading;
 
 
 namespace Adventure_Server_CSharp
@@ -17,8 +9,8 @@ namespace Adventure_Server_CSharp
     class Program
     {
         public static List<TcpClient> clients = new List<TcpClient>();
-        public static readonly string SERVER_IP = "85.97.76.108";
-        public static readonly ushort SERVER_PORT = 7777;
+        public static readonly string SERVER_IP = "127.0.0.1";
+        public static readonly ushort SERVER_PORT = 4515;
         public static readonly string DATABASE_USERNAME = "root";
         public static readonly string DATABASE_PASS = "";
 
@@ -29,7 +21,7 @@ namespace Adventure_Server_CSharp
         {
             Database.database.Connect();
 
-            Server.Singleton = new Server(7777);
+            Server.Singleton = new Server(4515);
 
             Server.Singleton.StartListening();
 
